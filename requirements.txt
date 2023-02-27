@@ -1,0 +1,8 @@
+nats-bench
+xautodl
+pytorch-ignite==0.4.4
+pymoo==0.6.0
+torch==1.13.1+cu116
+numpy==1.19.5
+tabulate
+argparse
