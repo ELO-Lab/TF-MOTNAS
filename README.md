@@ -1,4 +1,4 @@
-# Efficient Multi-Objective Neural Architecture Search via Tree Search Algorithms with Training-Free Metrics
+# Efficient Multi-Objective Neural Architecture Search via Tree Search with Training-Free Metrics
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 An Vo, Nhat Minh Le, and Ngoc Hoang Luong
